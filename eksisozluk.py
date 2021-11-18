@@ -4,7 +4,7 @@ import time
 
 browser = webdriver.Chrome()
 
-url = "https://eksisozluk.com/mustafa-kemal-ataturk--34712?p="
+url = "https://eksisozluk.com"
 
 page_count = 1
 entries = []
